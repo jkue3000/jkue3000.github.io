@@ -1,0 +1,16 @@
+body {
+	background-color: blue;
+}
+
+.bigRow{
+	background-color: white;
+	font-weight: bold;
+	text-align: center;
+}
+
+.row{
+	margin-bottom:30px;
+	background:lightgreen;
+	border:dashed red 2px;
+	padding:20px;
+}
