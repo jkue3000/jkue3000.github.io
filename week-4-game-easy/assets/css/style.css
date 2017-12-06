@@ -1,0 +1,55 @@
+h1 {
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+/*modify the top instructions*/
+.instructions {
+	font-color:black;
+	font-size: 21px;
+	line-height: 31.5px;
+	background-color: yellow;
+	padding: 10px;
+}
+
+/*layout for the buttons*/
+.btn{
+	width: 130px;
+	height: 130px;
+	display: inline-block;
+	margin: auto;
+}
+
+.buttonContainerRow{
+	padding-top: 20px;
+}
+
+/*layout for the row below the buttons and userValue*/
+.randomNumGen{
+	margin:20px 0px;
+	text-align: center;
+	font-size: 100px;
+	padding: 10px;
+	background-color: #63b6ff;
+}
+
+
+/*user value div*/
+.buttons-score{
+	text-align: center;
+	font-size: 100px;
+	background-color: #fcda50;
+
+}
+
+/*score win/loss*/
+.winLoss{
+	font-size: 20px;
+	line-height: 30px;
+}
+
+/*winsLossAlert*/
+.winLossAlert{
+	font-size: 20px;
+	font-weight: bold;
+}
