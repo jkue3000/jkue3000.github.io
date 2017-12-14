@@ -1,0 +1,27 @@
+h1{
+	text-align: center;
+}
+
+h2 {
+	margin-bottom: 0px;
+}
+
+body{
+	background-color: yellow;
+}
+
+.startGame{
+	margin-left: 570px;
+	padding: 100px;
+	font-size: 80px;
+	font-weight: bolder;
+}
+
+.startText{
+	text-align: center;
+	font-size: 80px;
+}
+
+form{
+	background: white;
+}
