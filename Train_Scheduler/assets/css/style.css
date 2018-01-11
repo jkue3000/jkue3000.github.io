@@ -1,0 +1,37 @@
+.jumbotron {
+	background-image: url("../images/train.jpg");
+	background-color: white;
+	background-repeat: no-repeat;
+	background-size: 500px;
+	border-radius: 5px;
+}
+
+body {
+	margin: 10px;
+}
+
+input {
+	width: 90vw;
+	height: 35px;
+	border: 1px solid black;
+	margin: 5px;
+}
+
+.panel-default>.panel-heading {
+	background-color: lightblue;
+	border: 1px solid black;
+}
+
+.panel-default>.panel-body {
+	padding: 1px;
+	border: 1px solid black;
+} 
+
+#formSubmit {
+	background-color: #ff9999;
+	margin: 10px;
+}
+
+form {
+	font-weight: bold;
+}
